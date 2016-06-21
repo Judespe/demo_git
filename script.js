@@ -1,0 +1,1 @@
+alert ('Voilà un nouveau fichier javascript !!');
